@@ -20,13 +20,13 @@ sudo apt install package1 package2
 Once installed you can run the program with the following command
 
 ```
-python demo.py
+FizzBuzz.py
 ```
 
 Add any additional ways to run the program below
 
 ```
-python demo.py test.txt
+FizzBuzz.py test.txt
 ```
 
 ## Thanks
